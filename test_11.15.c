@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
-
-
+//switchè¯­å¥æ²¡æœ‰breakä¼šå‘ä¸‹ç»§ç»­æ‰§è¡Œ
+//switch()æ‹¬å·é‡Œè¿›å…¥
 #include<stdio.h>
 
 
@@ -39,35 +39,3 @@ int main()
 
     return 0;
 }
-//int main()
-//{
-//    int day = 0;
-//    scanf("%d", &day);
-//    switch (day)
-//    {
-//    case 1:
-//        printf("ĞÇÆÚ1\n");
-//    case 2:
-//        printf("ĞÇÆÚ2\n");
-//
-//
-//
-//
-//    }
-    
-    
-    //if (day == 1)
-    //    printf("ĞÇÆÚ1\n");
-    //else if (2 ==day)
-    //    printf("ĞÇÆÚ2\n");
-    //else if (3 == day)
-    //    printf("ĞÇÆÚ3\n");
-    //else if (4 == day)
-    //    printf("ĞÇÆÚ4\n");
-
-
-
-
-//
-//    return 0;
-//}
