@@ -1,6 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
 #include<stdio.h>
+//wihile语句（）里只要为真才可执行，
+//break结束语句跳出循环
+//continue跳出本次循环，继续下一次循环
+
+
 
 //int main()
 //{
@@ -17,11 +22,6 @@
 //
 //	return 0;
 //}
-
-
-
-
-
 
 
 
