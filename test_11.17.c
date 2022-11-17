@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-
+//for循环for(;;)可以省略，不要随意
+//顺序for（1；2；4）
+//语句3
 
 #include<stdio.h>
 
